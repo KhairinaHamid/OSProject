@@ -5,7 +5,7 @@ Group Name: __Doremi__.
 Section: __5__. 
 
 Team Mates:
-1. __UMMUL KHAIRINA BINTI ABD HAMID__ and __2227992 try here__
+1. __UMMUL KHAIRINA BINTI ABD HAMID__ and __2227992__
 2. __NURUL ANIS SUFIYA BINTI ZU-ZAIDI__ and __2225588__
 
 ## Rules

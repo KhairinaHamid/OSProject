@@ -56,7 +56,7 @@ Team Mates:
 
 ***Questions:***
 
-1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)*** __Abuntu__.
+1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)*** __Abu__.
 2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** __4 vCPUs, 8GB RAM, 32GB disk and 8 vCPUs, 16GB RAM, 64GB disk__.
 3. Why must we commit and sync our current work on source control? ***(1 mark)*** __To save changes and prevent data loss__.
 

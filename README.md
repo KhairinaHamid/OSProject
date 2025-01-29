@@ -110,7 +110,7 @@ shm                65536        8     65528   1% /dev/shm
 /dev/root       30298176 13163804  17117988  44% /vscode
 /dev/sdb1       46127956 18628732  25123648  43% /tmp
 /dev/loop4      32847680 10734052  20419528  35% /workspaces**
-4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
+4. Run the command **du** . ***(1 mark)*** __Fill answer here try test sync__.
 5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
 6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
 7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.

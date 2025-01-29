@@ -77,7 +77,7 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 1. Run the command **pwd** . ***(1 mark)*** __/workspaces/OSProjects__.
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** 
-root:x:0:0:root:/root:/bin/bash
+**root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
 sys:x:3:3:sys:/dev:/usr/sbin/nologin
@@ -101,15 +101,15 @@ systemd-network:x:102:103:systemd Network Management,,,:/run/systemd:/usr/sbin/n
 systemd-resolve:x:103:104:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
 messagebus:x:104:105::/nonexistent:/usr/sbin/nologin
 codespace:x:1000:1000::/home/codespace:/bin/bash
-sshd:x:105:65534::/run/sshd:/usr/sbin/nologin
+sshd:x:105:65534::/run/sshd:/usr/sbin/nologin**
 3. Run the command **df** . ***(1 mark)***
- Filesystem     1K-blocks     Used Available Use% Mounted on
+**Filesystem     1K-blocks     Used Available Use% Mounted on
 overlay         32847680 10734052  20419528  35% /
 tmpfs              65536        0     65536   0% /dev
 shm                65536        8     65528   1% /dev/shm
 /dev/root       30298176 13163804  17117988  44% /vscode
 /dev/sdb1       46127956 18628732  25123648  43% /tmp
-/dev/loop4      32847680 10734052  20419528  35% /workspaces
+/dev/loop4      32847680 10734052  20419528  35% /workspaces**
 4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
 5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
 6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.

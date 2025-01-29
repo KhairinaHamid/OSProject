@@ -1,6 +1,6 @@
 # OSProject Running Containers for Application Development
 
-Group Name: __Dorem__. 
+Group Name: __Doremi__. 
 
 Section: __5__. 
 

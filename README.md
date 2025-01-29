@@ -75,6 +75,7 @@ codespace
 
 Look at the TERMINAL tab. Run the following commands and provide the output here. 
 
+<<<<<<< HEAD
 1. Run the command **pwd** . ***(1 mark)*** __/workspaces/OSProjects__.
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** 
 **root:x:0:0:root:/root:/bin/bash
@@ -111,6 +112,12 @@ shm                65536        8     65528   1% /dev/shm
 /dev/sdb1       46127956 18628732  25123648  43% /tmp
 /dev/loop4      32847680 10734052  20419528  35% /workspaces**
 4. Run the command **du** . ***(1 mark)*** __Fill answer here try test sync__.
+=======
+1. Run the command **pwd** . ***(1 mark)*** __/workspaces/OSProject__.
+2. Run the command **cat /etc/passwd** . ***(1 mark)*** __Fill answer here__.
+3. Run the command **df** . ***(1 mark)*** __Fill answer here__.
+4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
+>>>>>>> 9f9ad51 (Co-authored-by: KhairinaHamid <KhairinaHamid@users.noreply.github.com>)
 5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
 6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
 7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.

@@ -269,8 +269,145 @@ systemd-resolve:x:103:104:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
 messagebus:x:104:105::/nonexistent:/usr/sbin/nologin
 codespace:x:1000:1000::/home/codespace:/bin/bash
 sshd:x:105:65534::/run/sshd:/usr/sbin/nologin__.
-3. Run the command **df** . ***(1 mark)*** __Fill answer here__.
-4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
+3. Run the command **df** . ***(1 mark)*** 
+__Filesystem     1K-blocks     Used Available Use% Mounted on
+overlay         32847680 10735468  20418112  35% /
+tmpfs              65536        0     65536   0% /dev
+shm                65536        0     65536   0% /dev/shm
+/dev/root       30298176 11272100  19009692  38% /vscode
+/dev/sdb1       46127956 18794296  24958084  43% /tmp
+/dev/loop4      32847680 10735468  20418112  35% /workspaces__.
+4. Run the command **du** . ***(1 mark)*** 
+__8       ./.git/refs/heads
+4       ./.git/refs/tags
+12      ./.git/refs/remotes/origin
+16      ./.git/refs/remotes
+32      ./.git/refs
+68      ./.git/hooks
+8       ./.git/info
+4       ./.git/lfs/tmp
+8       ./.git/lfs
+4       ./.git/branches
+8       ./.git/objects/74
+12      ./.git/objects/fa
+16      ./.git/objects/af
+8       ./.git/objects/83
+8       ./.git/objects/09
+8       ./.git/objects/96
+8       ./.git/objects/c0
+8       ./.git/objects/b7
+8       ./.git/objects/5a
+8       ./.git/objects/93
+12      ./.git/objects/17
+8       ./.git/objects/24
+12      ./.git/objects/1b
+8       ./.git/objects/27
+8       ./.git/objects/5c
+8       ./.git/objects/d8
+8       ./.git/objects/30
+12      ./.git/objects/14
+12      ./.git/objects/70
+8       ./.git/objects/0b
+8       ./.git/objects/2b
+8       ./.git/objects/67
+16      ./.git/objects/47
+8       ./.git/objects/11
+8       ./.git/objects/26
+8       ./.git/objects/cd
+12      ./.git/objects/44
+12      ./.git/objects/ae
+16      ./.git/objects/72
+12      ./.git/objects/45
+8       ./.git/objects/e9
+8       ./.git/objects/71
+12      ./.git/objects/64
+24      ./.git/objects/fb
+12      ./.git/objects/a3
+8       ./.git/objects/0d
+8       ./.git/objects/c3
+20      ./.git/objects/95
+8       ./.git/objects/9e
+16      ./.git/objects/2e
+8       ./.git/objects/7b
+8       ./.git/objects/04
+8       ./.git/objects/91
+12      ./.git/objects/0f
+12      ./.git/objects/62
+8       ./.git/objects/9c
+12      ./.git/objects/3d
+12      ./.git/objects/1c
+8       ./.git/objects/f6
+8       ./.git/objects/b6
+12      ./.git/objects/ef
+8       ./.git/objects/4f
+12      ./.git/objects/f0
+8       ./.git/objects/fe
+12      ./.git/objects/d5
+12      ./.git/objects/59
+4       ./.git/objects/info
+8       ./.git/objects/61
+8       ./.git/objects/5e
+16      ./.git/objects/85
+8       ./.git/objects/22
+8       ./.git/objects/eb
+8       ./.git/objects/41
+12      ./.git/objects/dd
+12      ./.git/objects/29
+12      ./.git/objects/e7
+8       ./.git/objects/d0
+8       ./.git/objects/f7
+8       ./.git/objects/9f
+12      ./.git/objects/fc
+8       ./.git/objects/4b
+8       ./.git/objects/36
+12      ./.git/objects/8c
+8       ./.git/objects/d7
+8       ./.git/objects/b2
+8       ./.git/objects/20
+12      ./.git/objects/ab
+8       ./.git/objects/7e
+20      ./.git/objects/73
+8       ./.git/objects/52
+8       ./.git/objects/c6
+1828    ./.git/objects/pack
+8       ./.git/objects/86
+12      ./.git/objects/cf
+12      ./.git/objects/e5
+8       ./.git/objects/75
+12      ./.git/objects/05
+12      ./.git/objects/58
+8       ./.git/objects/f2
+8       ./.git/objects/a4
+16      ./.git/objects/6e
+8       ./.git/objects/2c
+16      ./.git/objects/49
+8       ./.git/objects/92
+8       ./.git/objects/fd
+8       ./.git/objects/81
+8       ./.git/objects/3f
+16      ./.git/objects/4a
+8       ./.git/objects/18
+12      ./.git/objects/be
+8       ./.git/objects/a6
+12      ./.git/objects/bf
+16      ./.git/objects/b9
+8       ./.git/objects/3a
+12      ./.git/objects/ff
+12      ./.git/objects/23
+16      ./.git/objects/b5
+12      ./.git/objects/d2
+8       ./.git/objects/60
+8       ./.git/objects/cb
+12      ./.git/objects/6c
+2964    ./.git/objects
+8       ./.git/logs/refs/heads
+12      ./.git/logs/refs/remotes/origin
+16      ./.git/logs/refs/remotes
+28      ./.git/logs/refs
+36      ./.git/logs
+3156    ./.git
+1972    ./images
+5156    .__.
 >>>>>>> 9f9ad51 (Co-authored-by: KhairinaHamid <KhairinaHamid@users.noreply.github.com>)
 5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
 6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.

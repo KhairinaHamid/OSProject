@@ -146,6 +146,8 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 9. Run the command **top** and type **q** to quit. ***(1 mark)***
 
+![alt text](image-21.png)
+
 10. Run the command **uname -a**. ***(1 mark)*** 
 
 

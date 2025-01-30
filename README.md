@@ -466,6 +466,16 @@ CREATE TABLE mytable (
 
 INSERT INTO mytable (name, value) VALUES ('example1', 'value1'), ('example2', 'value2'), ('example3', 'value3');
 ```
+Sample output : 
+mysql> select * from mytable;
++----+----------+--------+
+| id | name     | value  |
++----+----------+--------+
+|  1 | example1 | value1 |
+|  2 | example2 | value2 |
+|  3 | example3 | value3 |
++----+----------+--------+
+3 rows in set (0.00 sec)
 
 ### Summary
 
@@ -473,8 +483,10 @@ You have now set up a Node.js application in a Docker container on nodejsnet net
 
 ***Questions:***
 
-1. What is the output of step 5 above, explain the error? ***(1 mark)*** __Fill answer here__.
-2. Show the instruction needed to make this work. ***(1 mark)*** __Fill answer here__.
+1. What is the output of step 5 above, explain the error? ***(1 mark)*** 
+**Cannot GET /. Because of route defined to /random.**
+2. Show the instruction needed to make this work. ***(1 mark)***
+ __Add a default root route to handle requests to / and restart Node.js container__.
 
 
 

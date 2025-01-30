@@ -477,8 +477,10 @@ clflush size    : 64
 cache_alignment : 64
 address sizes   : 48 bits physical, 48 bits virtual
 power management:__.
-9. Run the command **top** and type **q** to quit. ***(1 mark)*** __![alt text](image.png)__.
-10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.
+9. Run the command **top** and type **q** to quit. ***(1 mark)***
+![alt text](image.png)
+10. Run the command **uname -a**. ***(1 mark)*** 
+![alt text](image-1.png)
 11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.

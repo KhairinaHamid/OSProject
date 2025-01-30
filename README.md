@@ -409,8 +409,14 @@ __8       ./.git/refs/heads
 1972    ./images
 5156    .__.
 >>>>>>> 9f9ad51 (Co-authored-by: KhairinaHamid <KhairinaHamid@users.noreply.github.com>)
-5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
-6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
+5. Run the command **ls** . ***(1 mark)*** __README.md  images__.
+6. Run the command **ls -asl** . ***(1 mark)*** 
+__total 44
+ 4 drwxrwxrwx+ 4 codespace root       4096 Jan 29 15:56 .
+ 4 drwxr-xrwx+ 5 codespace root       4096 Jan 29 13:16 ..
+ 4 drwxrwxrwx+ 9 codespace root       4096 Jan 30 08:55 .git
+28 -rw-rw-rw-  1 codespace codespace 27918 Jan 30 08:54 README.md
+ 4 drwxrwxrwx+ 2 codespace root       4096 Jan 29 13:16 images__.
 7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.
 8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __Fill answer here__.
 9. Run the command **top** and type **q** to quit. ***(1 mark)*** __Fill answer here__.

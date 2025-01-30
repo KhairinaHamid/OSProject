@@ -86,10 +86,15 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 ![alt text](image-4.png)
 
 4. Run the command **du** . ***(1 mark)*** 
+
 ![alt text](image-5.png)
+
 ![alt text](image-6.png)
+
 ![alt text](image-7.png)
+
 ![alt text](image-8.png)
+
 ![alt text](image-9.png)
 
 =======

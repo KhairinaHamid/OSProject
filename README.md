@@ -417,7 +417,10 @@ __total 44
  4 drwxrwxrwx+ 9 codespace root       4096 Jan 30 08:55 .git
 28 -rw-rw-rw-  1 codespace codespace 27918 Jan 30 08:54 README.md
  4 drwxrwxrwx+ 2 codespace root       4096 Jan 29 13:16 images__.
-7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.
+7. Run the command **free -h** . ***(1 mark)*** 
+__              total        used        free      shared  buff/cache   available
+Mem:          7.7Gi       1.2Gi       216Mi        60Mi       6.4Gi       6.2Gi
+Swap:            0B          0B          0B__.
 8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __Fill answer here__.
 9. Run the command **top** and type **q** to quit. ***(1 mark)*** __Fill answer here__.
 10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.

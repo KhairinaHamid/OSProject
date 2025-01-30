@@ -78,18 +78,26 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 <<<<<<< HEAD
 1. Run the command **pwd** . ***(1 mark)*** 
 ![alt text](image-2.png)
+
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** 
 ![alt text](image-3.png)
+
 3. Run the command **df** . ***(1 mark)***
 ![alt text](image-4.png)
-4. Run the command **du** . ***(1 mark)*** \n
+
+4. Run the command **du** . ***(1 mark)*** 
 ![alt text](image-5.png)
+
 ![alt text](image-6.png)
+
 ![alt text](image-7.png)
+
 ![alt text](image-8.png)
+
 ![alt text](image-9.png)
 
 =======
+
 1. Run the command **pwd** . ***(1 mark)*** __/workspaces/OSProject__.
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** 
 __root:x:0:0:root:/root:/bin/bash

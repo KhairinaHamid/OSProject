@@ -160,7 +160,11 @@ __5.8 GiB__.
 
 __20,406,900 KB (approximately 20.4 GB)__.
 
-13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
+13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** 
+
+__Version: Ubuntu 22.04.1 with kernel 6.5.0-1025-azure
+Hardware Architecture: x86_64 (64-bit)__.
+
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
 15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
 16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.

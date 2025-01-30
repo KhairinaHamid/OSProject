@@ -128,10 +128,11 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 5. Run the command **ls** . ***(1 mark)*** 
 
+![alt text](image-16.png)
 
 6. Run the command **ls -asl** . ***(1 mark)*** 
 
-
+![alt text](image-17.png)
 
 7. Run the command **free -h** . ***(1 mark)*** 
 

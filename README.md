@@ -163,9 +163,13 @@ __20,406,900 KB (approximately 20.4 GB)__.
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** 
 
 __Version: Ubuntu 22.04.1 with kernel 6.5.0-1025-azure__
+
 __Hardware Architecture: x86_64 (64-bit)__.
 
-14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
+14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** 
+
+__The ls command only shows the names of files and directories in the present directory. It does not show hidden files or give any other information. On the other hand, ls -asl shows more information because it includes hidden files (-a), shows file sizes in blocks (-s), and uses the long listing style (-l). The long format gives you important information like the owner, group, file size, last modification time, number of hard links, and file rights. This means that ls -asl can help you learn more about file properties, while ls can still be used to quickly see the names of files in a directory__.
+
 15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
 16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
 17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.

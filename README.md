@@ -239,8 +239,13 @@ f65be1987f84   debian    "bash"    19 minutes ago   Exited (137) 18 seconds ago 
 
 ***Questions:***
 
-1. Are files in the container persistent. Why not?. ***(1 mark)*** __Not persistent because there are no bind files mount__.
-2. Can we run two, or three instances of debian linux? . ***(1 mark)*** __Yes we can run a few instances in the debian linus__.
+1. Are files in the container persistent. Why not?. ***(1 mark)*** 
+
+__Not persistent because there are no bind files mount__.
+
+2. Can we run two, or three instances of debian linux? . ***(1 mark)*** 
+
+__Yes we can run a few instances in the debian linus__.
 
 ## Running your own container with persistent storage
 
@@ -296,9 +301,17 @@ docker run --detach -v /workspaces/OSProject/webpage:/usr/local/apache2/htdocs/ 
 
 ***Questions:***
 
-1. What is the permission of folder /usr/local/apache/htdocs and what user and group owns the folder? . ***(2 mark)*** __Permission is to read, write and execute. User : UID 1000 and group : GID 1000__.
-2. What port is the apache web server running. ***(1 mark)*** __Port : 80__.
-3. What port is open for http protocol on the host machine? ***(1 mark)*** __Port : 8080__.
+1. What is the permission of folder /usr/local/apache/htdocs and what user and group owns the folder? . ***(2 mark)*** 
+
+__Permission is to read, write and execute. User : UID 1000 and group : GID 1000__.
+
+2. What port is the apache web server running. ***(1 mark)*** 
+
+__Port : 80__.
+
+3. What port is open for http protocol on the host machine? ***(1 mark)*** 
+
+__Port : 8080__.
 
 ## Create SUB Networks
 
@@ -520,8 +533,11 @@ You have now set up a Node.js application in a Docker container on nodejsnet net
 ***Questions:***
 
 1. What is the output of step 5 above, explain the error? ***(1 mark)*** 
+
 **Cannot GET /. Because of route defined to /random.**
+
 2. Show the instruction needed to make this work. ***(1 mark)***
+
  __Add a default root route to handle requests to / and restart Node.js container__.
 
 

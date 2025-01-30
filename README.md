@@ -77,12 +77,15 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 <<<<<<< HEAD
 1. Run the command **pwd** . ***(1 mark)*** 
+
 ![alt text](image-2.png)
 
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** 
+
 ![alt text](image-3.png)
 
 3. Run the command **df** . ***(1 mark)***
+
 ![alt text](image-4.png)
 
 4. Run the command **du** . ***(1 mark)*** 
@@ -100,9 +103,11 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 =======
 
 1. Run the command **pwd** . ***(1 mark)*** 
+
 ![alt text](image-10.png)
 
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** 
+
 ![alt text](image-13.png)
 
 3. Run the command **df** . ***(1 mark)*** 

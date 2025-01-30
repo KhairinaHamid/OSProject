@@ -136,6 +136,8 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 7. Run the command **free -h** . ***(1 mark)*** 
 
+![alt text](image-18.png)
+
 8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** 
 
 9. Run the command **top** and type **q** to quit. ***(1 mark)***

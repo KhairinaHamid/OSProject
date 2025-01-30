@@ -78,17 +78,19 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 <<<<<<< HEAD
 1. Run the command **pwd** . ***(1 mark)*** 
 
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** 
 
-![alt text](image-3.png)
+![alt text](image-2.png)
 
 3. Run the command **df** . ***(1 mark)***
 
-![alt text](image-4.png)
+![alt text](image-3.png)
 
 4. Run the command **du** . ***(1 mark)*** 
+
+![alt text](image-4.png)
 
 ![alt text](image-5.png)
 
@@ -98,21 +100,21 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 ![alt text](image-8.png)
 
-![alt text](image-9.png)
-
 =======
 
 1. Run the command **pwd** . ***(1 mark)*** 
 
-![alt text](image-10.png)
+![alt text](image-9.png)
 
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** 
 
-![alt text](image-13.png)
+![alt text](image-10.png)
+
+
 
 3. Run the command **df** . ***(1 mark)*** 
 
-![alt text](image-14.png)
+
 
 4. Run the command **du** . ***(1 mark)*** 
 
@@ -132,17 +134,11 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 6. Run the command **ls -asl** . ***(1 mark)*** 
 
-![alt text](image-22.png)
+
 
 7. Run the command **free -h** . ***(1 mark)*** 
 
-![alt text](image-23.png)
-
 8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** 
-
-![alt text](image-24.png)
-
-![alt text](image-26.png)
 
 9. Run the command **top** and type **q** to quit. ***(1 mark)***
 

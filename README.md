@@ -518,7 +518,11 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 sudo chown -R codespace:codespace myroot
 
 ```
-*** __Fill answer here__.***
+**@KhairinaHamid ➜ /workspaces/OSProject/myroot (main) $ sudo chown -R codespace:codespace .
+@KhairinaHamid ➜ /workspaces/OSProject/myroot (main) $ ls -la
+total 8
+drwxrwxrwx+ 2 codespace codespace 4096 Jan 30 13:31 .
+drwxrwxrwx+ 5 codespace root      4096 Jan 30 13:31 ..**
 
 ## You are on your own, create your own static webpage
 

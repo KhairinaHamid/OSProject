@@ -111,13 +111,9 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 ![alt text](image-13.png)
 
 3. Run the command **df** . ***(1 mark)*** 
-__Filesystem     1K-blocks     Used Available Use% Mounted on
-overlay         32847680 10735468  20418112  35% /
-tmpfs              65536        0     65536   0% /dev
-shm                65536        0     65536   0% /dev/shm
-/dev/root       30298176 11272100  19009692  38% /vscode
-/dev/sdb1       46127956 18794296  24958084  43% /tmp
-/dev/loop4      32847680 10735468  20418112  35% /workspaces__.
+
+![alt text](image-14.png)
+
 4. Run the command **du** . ***(1 mark)*** 
 __8       ./.git/refs/heads
 4       ./.git/refs/tags

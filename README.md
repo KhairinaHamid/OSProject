@@ -177,6 +177,7 @@ f65be1987f84   debian    "bash"    19 minutes ago   Exited (137) 18 seconds ago 
 ```
 
 7. Stop the container and delete the container. What happened to your helloworld.txt?
+__helloworld.txt is no longer exists__
 
 ```bash 
 @joeynor ➜ /workspaces/OSProject (main) $ docker stop romantic_jackson
@@ -190,8 +191,8 @@ f65be1987f84   debian    "bash"    19 minutes ago   Exited (137) 18 seconds ago 
 
 ***Questions:***
 
-1. Are files in the container persistent. Why not?. ***(1 mark)*** __Fill answer here__.
-2. Can we run two, or three instances of debian linux? . ***(1 mark)*** __Fill answer here__.
+1. Are files in the container persistent. Why not?. ***(1 mark)*** __Not persistent because there are no bind files mount__.
+2. Can we run two, or three instances of debian linux? . ***(1 mark)*** __Yes we can run a few instances in the debian linus__.
 
 ## Running your own container with persistent storage
 

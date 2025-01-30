@@ -116,7 +116,15 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 4. Run the command **du** . ***(1 mark)*** 
 
+![alt text](image-11.png)
 
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
 
 5. Run the command **ls** . ***(1 mark)*** 
 

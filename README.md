@@ -145,9 +145,9 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 ![alt text](image-26.png)
 
 9. Run the command **top** and type **q** to quit. ***(1 mark)***
-![alt text](image.png)
+
 10. Run the command **uname -a**. ***(1 mark)*** 
-![alt text](image-1.png)
+
 
 11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.

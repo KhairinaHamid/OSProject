@@ -355,7 +355,11 @@ a08b9811c4e4   rednet    bridge    local**
 
 **Gateway bluenet c1 : 172.18.0.1
 Gateway rednet c2 : 172.19.0.1**.
-4. What is the network address for the running container c1 and c2? ***(1 mark)*** __Fill answer here__.
+
+4. What is the network address for the running container c1 and c2? ***(1 mark)*** 
+**Network address for c1 : 172.18.0.2
+Network address for c2 : 172.20.0.3**
+
 5. Using the command ```docker exec c1 ping c2```, which basically tries to do a ping from container c1 to c2. Are you able to ping? Show your output . ***(1 mark)*** 
 
 **Cannot ping due to invalid address. The output as below. 
